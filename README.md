@@ -1,5 +1,6 @@
 # StanfordNER
 Stanford pre-trained model for Vietnamese Named Entity Recognition 
+Please download model from here https://drive.google.com/open?id=1uoGaPcmQ0YXH3YcEOwv9N5ow48Bs9NQD
 
 1. How to use
 
